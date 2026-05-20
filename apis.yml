@@ -24,6 +24,10 @@ apis:
       - type: Documentation
         url: https://docs.superagent.sh
 common:
+  - type: GitHubOrganization
+    url: https://github.com/superagent-ai
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/superagent-sh
   - type: Website
     url: https://www.superagent.sh
   - type: Documentation
