@@ -3,7 +3,7 @@ name: SuperAgent
 description: >-
   SuperAgent is an open-source framework for building and deploying AI agents with APIs.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - AI Agents
   - AI Automation
