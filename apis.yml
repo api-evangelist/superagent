@@ -24,6 +24,8 @@ apis:
       - type: Documentation
         url: https://docs.superagent.sh
 common:
+  - type: DomainSecurity
+    url: security/superagent-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/superagent-ai
   - type: LinkedIn
@@ -32,6 +34,8 @@ common:
     url: https://www.superagent.sh
   - type: Documentation
     url: https://docs.superagent.sh
+  - url: https://superagent.sh/blog
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
