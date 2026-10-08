@@ -47,6 +47,12 @@ apis:
       - type: Documentation
         url: https://docs.superagent.sh
 common:
+  - type: Plans
+    url: plans/superagent-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/superagent-rate-limits.yml
+  - type: FinOps
+    url: finops/superagent-finops.yml
   - type: DomainSecurity
     url: security/superagent-domain-security.yml
   - type: GitHubOrganization
